@@ -1,6 +1,3 @@
-importScripts('https://cdn.onesignal.com/sdks/OneSignalSDKWorker.js');
-
-
 let customExcuse = null;
 let customCategory = null;
 
